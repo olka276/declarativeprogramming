@@ -1,0 +1,11 @@
+nazwa_funkcji argument1 arg2 = (znak definiowania) definicja
+elementy listy nie mog¹ mieæ ró¿nych typów [ ]
+krotka mo¿e, ale trzeba podaæ iloœæ ( )
+liczby ujemne piszemy w nawiasach
+pojedyncze znaki piszemy w ciapkach
+typ ordering: LT, EQ, GT, przez funkcjê compare
+('a',1) (Char, Int) <- przypisanie typów
+mozliwa jest konkatenacja list przez ++
+
+
+:))
